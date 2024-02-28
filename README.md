@@ -1,7 +1,7 @@
 # AlgoTrading
 
 ## Todo
-[ ] Change moving average length values
+- [ ] Change moving average length values
 
 
 ## Resources
